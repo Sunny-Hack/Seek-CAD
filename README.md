@@ -4,3 +4,5 @@
 ## Dataset 
 
 ### 🧩 Pre-processed Text-SSR Pairs
+
+We provide **4 pre-processed `.txt` files** containing over **23K** Text2SSR (Sketch, Sketchbased feature, and Refinements) pairs. 
