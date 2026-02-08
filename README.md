@@ -6,6 +6,10 @@
   <img src="assets/framework.png" width="100%" alt="Seek-CAD Framework">
 </p>
 
+## 👥 Contributors & Maintainers
+
+This project is a joint effort by:
+
 ## Dataset 
 
 <p align="center">
