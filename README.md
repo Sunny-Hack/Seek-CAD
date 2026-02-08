@@ -23,3 +23,6 @@ Each sample within these files consists of a **Description** paired with its cor
 
 **Example:**
 Below is a visualization of a sample pair:
+<p align="center">
+  <img src="assets/text2ssr_samples.png" width="800" alt="RAG Corpus Sample Visualization">
+</p>
