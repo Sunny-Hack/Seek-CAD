@@ -6,11 +6,6 @@
   <img src="assets/framework.png" width="100%" alt="Seek-CAD Framework">
 </p>
 
-## Contributors
-
-This project is also a joint effort by:
-**[Jiahao Li](https://github.com/jiahaoleeee)**
-
 ## Dataset 
 
 <p align="center">
@@ -40,6 +35,11 @@ Each sample within these files consists of a **Description** paired with its cor
 <p align="center">
   <img src="assets/text2ssr_samples.png" width="800" alt="RAG Corpus Sample Visualization">
 </p>
+
+## Contributors
+
+This project is also a joint effort by:
+**[Jiahao Li](https://github.com/jiahaoleeee)**
 
 ## Citation
 
