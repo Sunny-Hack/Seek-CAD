@@ -9,7 +9,7 @@
 ## 👥 Contributors
 
 This project is also a joint effort by:
-**[Jiahao Li]((https://github.com/jiahaoleeee))**
+**[Jiahao Li](https://github.com/jiahaoleeee)**
 
 ## Dataset 
 
