@@ -35,3 +35,16 @@ Each sample within these files consists of a **Description** paired with its cor
 <p align="center">
   <img src="assets/text2ssr_samples.png" width="800" alt="RAG Corpus Sample Visualization">
 </p>
+
+## 📜 Citation
+
+If you find our work, code, or dataset useful for your research, please cite our paper:
+
+```bibtex
+@inproceedings{li2026seekcad,
+  title={Seek-CAD: A Self-refined Generative Modeling for 3D Parametric CAD Using Local Inference via DeepSeek},
+  author={Li, Xueyang and [Add Co-authors Here]},
+  booktitle={International Conference on Learning Representations (ICLR)},
+  year={2026},
+  url={[https://openreview.net/forum?id=xxxxx](https://openreview.net/forum?id=xxxxx)}  % (可选：如果你有OpenReview链接建议贴在这里)
+}
