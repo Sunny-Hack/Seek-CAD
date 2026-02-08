@@ -17,3 +17,10 @@ We provide **4 pre-processed `.txt` files** containing over **23K** Text2SSR (Sk
 - `Text2SSR_part3.txt`: **6,275** samples
 - `Text2SSR_part4.txt`: **5,014** samples
   
+**Sample Format:**
+
+Each sample within these files consists of a **Natural Language Description** paired with its corresponding **SSR (Solid-modeling Sequence Representation) Code**.
+
+> **Structure:** `[Description] <separator> [SSR Code]`
+
+**Example:**
