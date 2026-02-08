@@ -7,8 +7,13 @@
 
 We provide **4 pre-processed `.txt` files** containing over **23K** Text2SSR (Sketch, Sketchbased feature, and Refinements) pairs. 
 
-**File List:**
-- `Text2SSR_part1.txt`
-- `Text2SSR_part2.txt`
-- `Text2SSR_part3.txt`
-- `Text2SSR_part4.txt`
+- **Total Samples**: 23,313 pairs.
+- **File Format**: `.txt` (Text-SSR pairs).
+
+**File Breakdown:**
+
+- `Text2SSR_part1.txt`: **5,199** samples
+- `Text2SSR_part2.txt`: **6,825** samples
+- `Text2SSR_part3.txt`: **6,275** samples
+- `Text2SSR_part4.txt`: **5,014** samples
+  
