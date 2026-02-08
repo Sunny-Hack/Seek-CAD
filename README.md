@@ -8,7 +8,7 @@
 We provide **4 pre-processed `.txt` files** containing over **23K** Text2SSR (Sketch, Sketchbased feature, and Refinements) pairs. 
 
 **File List:**
-- `rag_corpus_part1.txt`
-- `rag_corpus_part2.txt`
-- `rag_corpus_part3.txt`
-- `rag_corpus_part4.txt`
+- `Text2SSR_part1.txt`
+- `Text2SSR_part2.txt`
+- `Text2SSR_part3.txt`
+- `Text2SSR_part4.txt`
