@@ -1,3 +1,5 @@
+
+[![ICLR 2026](https://img.shields.io/badge/ICLR-2026-blue.svg)](https://iclr.cc/)
 # Seek-CAD : A Self-refined Generative Modeling for 3D Parametric CAD Using Local Inference via DeepSeek (ICLR 2026)
 
 <p align="center">
