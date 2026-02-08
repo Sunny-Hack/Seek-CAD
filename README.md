@@ -43,7 +43,7 @@ If you find this useful for your research, please cite our paper:
 ```bibtex
 @inproceedings{li2026seekcad,
   title={Seek-CAD: A Self-refined Generative Modeling for 3D Parametric CAD Using Local Inference via DeepSeek},
-  author={Li, Xueyang and [Add Co-authors Here]},
+  author={Xueyang Li and Jiahao Li and Yu Song and Yunzhong Lou and Xiangdong Zhou},
   booktitle={International Conference on Learning Representations (ICLR)},
   year={2026},
   url={(https://openreview.net/forum?id=PzIc2TxhwN)}  % (可选：如果你有OpenReview链接建议贴在这里)
