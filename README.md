@@ -1,6 +1,8 @@
 # Seek-CAD : A Self-refined Generative Modeling for 3D Parametric CAD Using Local Inference via DeepSeek (ICLR 2026)
 
-
+<p align="center">
+  <img src="assets/framework.png" width="100%" alt="Seek-CAD Framework">
+</p>
 ## Dataset 
 
 ### 🧩 Pre-processed Text-SSR Pairs
