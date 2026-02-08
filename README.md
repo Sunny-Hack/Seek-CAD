@@ -12,7 +12,7 @@
   <img src="assets/SSR_Design_Paradigm.png" width="100%" alt="Seek-CAD Framework">
 </p>
 
-### 🧩 Pre-processed Text-SSR Pairs
+### Pre-processed Text-SSR Pairs
 
 We provide 4 pre-processed `.txt` files containing over **23K** Text2SSR (Sketch, Sketchbased feature, and Refinements) pairs. You can access these files by unzipping the archive located at `Dataset/preprocessed_txt2ssr`.
 
