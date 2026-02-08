@@ -5,7 +5,7 @@
 
 ### 🧩 Pre-processed Text-SSR Pairs
 
-We provide **4 pre-processed `.txt` files** containing over **23K** Text2SSR (Sketch, Sketchbased feature, and Refinements) pairs. 
+We provide 4 pre-processed `.txt` files containing over **23K** Text2SSR (Sketch, Sketchbased feature, and Refinements) pairs. You can access these files by unzipping the archive located at `Dataset/preprocessed_txt2ssr`.
 
 - **Total Samples**: 23,313 pairs.
 - **File Format**: `.txt` (Text-SSR pairs).
@@ -22,7 +22,7 @@ We provide **4 pre-processed `.txt` files** containing over **23K** Text2SSR (Sk
 Each sample within these files consists of a **Description** paired with its corresponding **SSR Code**.
 
 **Example:**
-Below is a visualization of a sample pair:
+
 <p align="center">
   <img src="assets/text2ssr_samples.png" width="800" alt="RAG Corpus Sample Visualization">
 </p>
