@@ -46,5 +46,5 @@ If you find this useful for your research, please cite our paper:
   author={Li, Xueyang and [Add Co-authors Here]},
   booktitle={International Conference on Learning Representations (ICLR)},
   year={2026},
-  url={[https://openreview.net/forum?id=xxxxx](https://openreview.net/forum?id=xxxxx)}  % (可选：如果你有OpenReview链接建议贴在这里)
+  url={[[https://openreview.net/forum?id=xxxxx](https://openreview.net/forum?id=PzIc2TxhwN)]}  % (可选：如果你有OpenReview链接建议贴在这里)
 }
