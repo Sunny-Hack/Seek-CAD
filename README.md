@@ -36,9 +36,9 @@ Each sample within these files consists of a **Description** paired with its cor
   <img src="assets/text2ssr_samples.png" width="800" alt="RAG Corpus Sample Visualization">
 </p>
 
-## 📜 Citation
+## Citation
 
-If you find our work, code, or dataset useful for your research, please cite our paper:
+If you find this useful for your research, please cite our paper:
 
 ```bibtex
 @inproceedings{li2026seekcad,
