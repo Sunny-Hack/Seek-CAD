@@ -3,4 +3,4 @@
 
 ## Dataset 
 
-### 🧩 RAG Corpus (Retrieval Database)
+### 🧩 Pre-processed Text-SSR Pairs
