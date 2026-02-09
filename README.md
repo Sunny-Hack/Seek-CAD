@@ -8,16 +8,20 @@
 
 ## Dataset 
 
-<p align="center">
-  <img src="assets/dataset_compare.jpg" width="60%" alt="Seek-CAD Dataset">
-</p>
+
 <p align="center">
   <img src="assets/SSR_Design_Paradigm.png" width="100%" alt="Seek-CAD Framework">
 </p>
-<p align="center">
-  <img src="assets/dataset_stat_compare.jpg" width="100%" alt="Seek-CAD Dataset">
-</p>
-
+<table>
+  <tr>
+    <td align="center">
+      <img src="assets/dataset_stat_compare.jpg" width="70%" alt="Seek-CAD Dataset">
+    </td>
+    <td align="center">
+      <img src="assets/dataset_compare.jpg" width="60%" alt="Seek-CAD Dataset">
+    </td>
+  </tr>
+</table>
 
 ### Seek-CAD Dataset
 
