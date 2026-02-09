@@ -9,13 +9,13 @@
 ## Dataset 
 
 <p align="center">
-  <img src="assets/dataset_compare.png" width="100%" alt="Seek-CAD Dataset">
+  <img src="assets/dataset_compare.jpg" width="100%" alt="Seek-CAD Dataset">
 </p>
 <p align="center">
   <img src="assets/SSR_Design_Paradigm.png" width="100%" alt="Seek-CAD Framework">
 </p>
 <p align="center">
-  <img src="assets/dataset_stat_compare.png" width="100%" alt="Seek-CAD Dataset">
+  <img src="assets/dataset_stat_compare.jpg" width="100%" alt="Seek-CAD Dataset">
 </p>
 
 
