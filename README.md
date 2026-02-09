@@ -12,7 +12,50 @@
   <img src="assets/SSR_Design_Paradigm.png" width="100%" alt="Seek-CAD Framework">
 </p>
 
-### Pre-processed Text-SSR Pairs
+### Seek-CAD Dataset
+
+#### Dataset Overview
+
+We provide the **Seek-CAD dataset**, which contains approximately **40,000 CAD models**.  
+Each CAD model is primarily stored in **JSON format**.
+
+#### Download Instructions
+
+The JSON files can be downloaded from the following link: https://drive.google.com/file/d/1kO2wNm_JDBZfhgvsVqKSOWU_h2EbACGV/view?usp=sharing
+
+We recommend downloading the file to the `Dataset/` directory and extracting it using:
+
+```bash
+unzip json_files.zip
+```
+
+#### Text Descriptions
+
+For each CAD model, we also provide a corresponding **textual description**, which can be found at:
+
+```
+Dataset/descriptions.json
+```
+
+#### Visualization and Conversion Examples
+
+We provide a detailed example script located at:
+
+```
+visualize/example/visualize_example.py
+```
+
+This script demonstrates:
+
+- How to construct 3D CAD models from JSON files using APIs from OpenCascade (e.g., exporting models as STEP files)
+- How to convert JSON files into a code-based representation
+- How to regenerate a unified JSON format from code
+- How to convert our data format into the JSON format used by **DeepCAD**
+  (https://github.com/rundiwu/DeepCAD), enabling convenient downstream processing
+
+These examples are intended to facilitate data visualization, format conversion, and integration with existing CAD learning pipelines.
+
+### Pre-processed Text-SSR Pairs (RAG Corpus)
 
 We provide 4 pre-processed `.txt` files containing over **23K** Text2SSR (Sketch, Sketchbased feature, and Refinements) pairs. You can access these files by unzipping the archive located at `Dataset/preprocessed_txt2ssr`.
 
