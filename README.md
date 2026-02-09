@@ -14,6 +14,7 @@
 </p>
 <p align="center"> <img src="assets/dataset_stat_compare.jpg" width="100%" alt="Seek-CAD Dataset"> </p> 
 <p align="center"> <img src="assets/dataset_compare.jpg" width="60%" alt="Seek-CAD Dataset"> </p>
+
 ### Seek-CAD Dataset
 
 #### Dataset Overview
