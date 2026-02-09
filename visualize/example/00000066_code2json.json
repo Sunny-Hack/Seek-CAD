@@ -1,0 +1,818 @@
+{
+    "features": {
+        "0abfb08d-d5d3-46d5-b99c-8264df9cf461": {
+            "name": "0abfb08d-d5d3-46d5-b99c-8264df9cf461",
+            "id": "0abfb08d-d5d3-46d5-b99c-8264df9cf461",
+            "type": "sketch",
+            "profiles": {
+                "186c0014-5abf-4729-9304-585d0b297e61": {
+                    "loops": [
+                        {
+                            "loop_curves": [
+                                {
+                                    "type": "Line2D",
+                                    "id": "dummy",
+                                    "start_point": [
+                                        -86,
+                                        -122
+                                    ],
+                                    "end_point": [
+                                        86,
+                                        -122
+                                    ],
+                                    "start_point_id": "dummy",
+                                    "end_point_id": "KGAB"
+                                },
+                                {
+                                    "type": "Line2D",
+                                    "id": "dummy",
+                                    "start_point": [
+                                        86,
+                                        -122
+                                    ],
+                                    "end_point": [
+                                        86,
+                                        -76
+                                    ],
+                                    "start_point_id": "dummy",
+                                    "end_point_id": "JG4"
+                                },
+                                {
+                                    "type": "Arc2D",
+                                    "id": "dummy",
+                                    "start_point": [
+                                        86,
+                                        -76
+                                    ],
+                                    "end_point": [
+                                        65,
+                                        -39
+                                    ],
+                                    "start_point_id": "dummy",
+                                    "end_point_id": "dummy",
+                                    "center_point": [
+                                        0,
+                                        0
+                                    ],
+                                    "radius": null,
+                                    "start_angle": null,
+                                    "end_angle": null,
+                                    "midpoint": [
+                                        65,
+                                        -63
+                                    ]
+                                },
+                                {
+                                    "type": "Arc2D",
+                                    "id": "dummy",
+                                    "start_point": [
+                                        65,
+                                        -39
+                                    ],
+                                    "end_point": [
+                                        57,
+                                        50
+                                    ],
+                                    "start_point_id": "dummy",
+                                    "end_point_id": "JGM",
+                                    "center_point": [
+                                        0,
+                                        0
+                                    ],
+                                    "radius": null,
+                                    "start_angle": null,
+                                    "end_angle": null,
+                                    "midpoint": [
+                                        76,
+                                        7
+                                    ]
+                                },
+                                {
+                                    "type": "Line2D",
+                                    "id": "dummy",
+                                    "start_point": [
+                                        57,
+                                        50
+                                    ],
+                                    "end_point": [
+                                        57,
+                                        107
+                                    ],
+                                    "start_point_id": "dummy",
+                                    "end_point_id": "JGc"
+                                },
+                                {
+                                    "type": "Line2D",
+                                    "id": "dummy",
+                                    "start_point": [
+                                        57,
+                                        107
+                                    ],
+                                    "end_point": [
+                                        23,
+                                        107
+                                    ],
+                                    "start_point_id": "dummy",
+                                    "end_point_id": "JGY"
+                                },
+                                {
+                                    "type": "Line2D",
+                                    "id": "dummy",
+                                    "start_point": [
+                                        23,
+                                        107
+                                    ],
+                                    "end_point": [
+                                        23,
+                                        56
+                                    ],
+                                    "start_point_id": "dummy",
+                                    "end_point_id": "JGE"
+                                },
+                                {
+                                    "type": "Arc2D",
+                                    "id": "dummy",
+                                    "start_point": [
+                                        23,
+                                        56
+                                    ],
+                                    "end_point": [
+                                        -23,
+                                        56
+                                    ],
+                                    "start_point_id": "dummy",
+                                    "end_point_id": "IG",
+                                    "center_point": [
+                                        0,
+                                        0
+                                    ],
+                                    "radius": null,
+                                    "start_angle": null,
+                                    "end_angle": null,
+                                    "midpoint": [
+                                        0,
+                                        -61
+                                    ]
+                                },
+                                {
+                                    "type": "Line2D",
+                                    "id": "dummy",
+                                    "start_point": [
+                                        -23,
+                                        56
+                                    ],
+                                    "end_point": [
+                                        -23,
+                                        84
+                                    ],
+                                    "start_point_id": "dummy",
+                                    "end_point_id": "dummy"
+                                },
+                                {
+                                    "type": "Line2D",
+                                    "id": "dummy",
+                                    "start_point": [
+                                        -23,
+                                        84
+                                    ],
+                                    "end_point": [
+                                        -23,
+                                        107
+                                    ],
+                                    "start_point_id": "dummy",
+                                    "end_point_id": "JGQ"
+                                },
+                                {
+                                    "type": "Line2D",
+                                    "id": "dummy",
+                                    "start_point": [
+                                        -23,
+                                        107
+                                    ],
+                                    "end_point": [
+                                        -57,
+                                        107
+                                    ],
+                                    "start_point_id": "dummy",
+                                    "end_point_id": "JGU"
+                                },
+                                {
+                                    "type": "Line2D",
+                                    "id": "dummy",
+                                    "start_point": [
+                                        -57,
+                                        107
+                                    ],
+                                    "end_point": [
+                                        -57,
+                                        50
+                                    ],
+                                    "start_point_id": "dummy",
+                                    "end_point_id": "JGI"
+                                },
+                                {
+                                    "type": "Arc2D",
+                                    "id": "dummy",
+                                    "start_point": [
+                                        -57,
+                                        50
+                                    ],
+                                    "end_point": [
+                                        -65,
+                                        -39
+                                    ],
+                                    "start_point_id": "dummy",
+                                    "end_point_id": "dummy",
+                                    "center_point": [
+                                        0,
+                                        0
+                                    ],
+                                    "radius": null,
+                                    "start_angle": null,
+                                    "end_angle": null,
+                                    "midpoint": [
+                                        -76,
+                                        7
+                                    ]
+                                },
+                                {
+                                    "type": "Arc2D",
+                                    "id": "dummy",
+                                    "start_point": [
+                                        -65,
+                                        -39
+                                    ],
+                                    "end_point": [
+                                        -86,
+                                        -76
+                                    ],
+                                    "start_point_id": "dummy",
+                                    "end_point_id": "JGo",
+                                    "center_point": [
+                                        0,
+                                        0
+                                    ],
+                                    "radius": null,
+                                    "start_angle": null,
+                                    "end_angle": null,
+                                    "midpoint": [
+                                        -65,
+                                        -63
+                                    ]
+                                },
+                                {
+                                    "type": "Line2D",
+                                    "id": "dummy",
+                                    "start_point": [
+                                        -86,
+                                        -76
+                                    ],
+                                    "end_point": [
+                                        -86,
+                                        -122
+                                    ],
+                                    "start_point_id": "dummy",
+                                    "end_point_id": "JGw"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            },
+            "plane": {
+                "normal": [
+                    0,
+                    0,
+                    128
+                ],
+                "origin": [
+                    0,
+                    0,
+                    0
+                ],
+                "x": [
+                    128,
+                    0,
+                    0
+                ]
+            }
+        },
+        "3a613e04-11c8-4bfb-bc7b-f207af85131f": {
+            "name": "3a613e04-11c8-4bfb-bc7b-f207af85131f",
+            "id": "3a613e04-11c8-4bfb-bc7b-f207af85131f",
+            "type": "extrude",
+            "sketch_id": "0abfb08d-d5d3-46d5-b99c-8264df9cf461",
+            "parameters": {
+                "bodyType": "SOLID",
+                "operationType": "NEW",
+                "endBound": "BLIND",
+                "depthOne": 23.0,
+                "depthTwo": 23.0
+            }
+        },
+        "8796a016-473d-4258-bd55-a63ac005ed7c": {
+            "name": "8796a016-473d-4258-bd55-a63ac005ed7c",
+            "id": "8796a016-473d-4258-bd55-a63ac005ed7c",
+            "type": "fillet",
+            "entities": [
+                {
+                    "referenceId": "JGE",
+                    "capType": "SWEPT"
+                },
+                {
+                    "referenceId": "IG",
+                    "capType": "SWEPT"
+                }
+            ],
+            "parameters": {
+                "radius": 19.0
+            }
+        },
+        "4f397769-bf3b-42ac-a73e-9cc690714f67": {
+            "name": "4f397769-bf3b-42ac-a73e-9cc690714f67",
+            "id": "4f397769-bf3b-42ac-a73e-9cc690714f67",
+            "type": "fillet",
+            "entities": [
+                {
+                    "referenceId": "JGQ",
+                    "capType": "SWEPT"
+                },
+                {
+                    "referenceId": "JGY",
+                    "capType": "SWEPT"
+                },
+                {
+                    "referenceId": "JGc",
+                    "capType": "SWEPT"
+                },
+                {
+                    "referenceId": "JGU",
+                    "capType": "SWEPT"
+                },
+                {
+                    "referenceId": "JGM",
+                    "capType": "SWEPT"
+                },
+                {
+                    "referenceId": "JGI",
+                    "capType": "SWEPT"
+                },
+                {
+                    "referenceId": "JGo",
+                    "capType": "SWEPT"
+                },
+                {
+                    "referenceId": "JGw",
+                    "capType": "SWEPT"
+                },
+                {
+                    "referenceId": "KGAB",
+                    "capType": "SWEPT"
+                },
+                {
+                    "referenceId": "JG4",
+                    "capType": "SWEPT"
+                }
+            ],
+            "parameters": {
+                "radius": 4.0
+            }
+        },
+        "0da234dd-ad51-4c91-bde3-cbdd3660ea3e": {
+            "name": "0da234dd-ad51-4c91-bde3-cbdd3660ea3e",
+            "id": "0da234dd-ad51-4c91-bde3-cbdd3660ea3e",
+            "type": "sketch",
+            "profiles": {
+                "e278b0e2-1036-4841-8734-925aeee1dffd": {
+                    "loops": [
+                        {
+                            "loop_curves": [
+                                {
+                                    "type": "Line2D",
+                                    "id": "dummy",
+                                    "start_point": [
+                                        -86,
+                                        -99
+                                    ],
+                                    "end_point": [
+                                        -29,
+                                        -99
+                                    ],
+                                    "start_point_id": "dummy",
+                                    "end_point_id": "dummy"
+                                },
+                                {
+                                    "type": "Line2D",
+                                    "id": "dummy",
+                                    "start_point": [
+                                        -29,
+                                        -99
+                                    ],
+                                    "end_point": [
+                                        -29,
+                                        -89
+                                    ],
+                                    "start_point_id": "dummy",
+                                    "end_point_id": "dummy"
+                                },
+                                {
+                                    "type": "Line2D",
+                                    "id": "dummy",
+                                    "start_point": [
+                                        -29,
+                                        -89
+                                    ],
+                                    "end_point": [
+                                        -86,
+                                        -89
+                                    ],
+                                    "start_point_id": "dummy",
+                                    "end_point_id": "dummy"
+                                },
+                                {
+                                    "type": "Line2D",
+                                    "id": "dummy",
+                                    "start_point": [
+                                        -86,
+                                        -89
+                                    ],
+                                    "end_point": [
+                                        -86,
+                                        -99
+                                    ],
+                                    "start_point_id": "dummy",
+                                    "end_point_id": "dummy"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            },
+            "plane": {
+                "normal": [
+                    0,
+                    0,
+                    128
+                ],
+                "origin": [
+                    0,
+                    0,
+                    0
+                ],
+                "x": [
+                    128,
+                    0,
+                    0
+                ]
+            }
+        },
+        "caff46d9-eaa0-4b07-862a-80fd0b3c39dd": {
+            "name": "caff46d9-eaa0-4b07-862a-80fd0b3c39dd",
+            "id": "caff46d9-eaa0-4b07-862a-80fd0b3c39dd",
+            "type": "revolve",
+            "sketch_id": "0da234dd-ad51-4c91-bde3-cbdd3660ea3e",
+            "parameters": {
+                "bodyType": "SOLID",
+                "operationType": "REMOVE",
+                "revolveType": "",
+                "axis": {
+                    "point": [
+                        -86,
+                        -99,
+                        0
+                    ],
+                    "direction": [
+                        128,
+                        0,
+                        0
+                    ]
+                },
+                "angleOne": -360.0,
+                "angleTwo": 0.0
+            }
+        },
+        "5e22f879-8f67-47ab-b84c-071cadcbc73a": {
+            "name": "5e22f879-8f67-47ab-b84c-071cadcbc73a",
+            "id": "5e22f879-8f67-47ab-b84c-071cadcbc73a",
+            "type": "sketch",
+            "profiles": {
+                "cd48190b-a90c-469c-9596-d7f5fb1c9b0a": {
+                    "loops": [
+                        {
+                            "loop_curves": [
+                                {
+                                    "type": "Line2D",
+                                    "id": "dummy",
+                                    "start_point": [
+                                        -57,
+                                        76
+                                    ],
+                                    "end_point": [
+                                        -23,
+                                        76
+                                    ],
+                                    "start_point_id": "dummy",
+                                    "end_point_id": "dummy"
+                                },
+                                {
+                                    "type": "Line2D",
+                                    "id": "dummy",
+                                    "start_point": [
+                                        -23,
+                                        76
+                                    ],
+                                    "end_point": [
+                                        -23,
+                                        84
+                                    ],
+                                    "start_point_id": "dummy",
+                                    "end_point_id": "dummy"
+                                },
+                                {
+                                    "type": "Line2D",
+                                    "id": "dummy",
+                                    "start_point": [
+                                        -23,
+                                        84
+                                    ],
+                                    "end_point": [
+                                        -38,
+                                        84
+                                    ],
+                                    "start_point_id": "dummy",
+                                    "end_point_id": "dummy"
+                                },
+                                {
+                                    "type": "Line2D",
+                                    "id": "dummy",
+                                    "start_point": [
+                                        -38,
+                                        84
+                                    ],
+                                    "end_point": [
+                                        -38,
+                                        87
+                                    ],
+                                    "start_point_id": "dummy",
+                                    "end_point_id": "dummy"
+                                },
+                                {
+                                    "type": "Line2D",
+                                    "id": "dummy",
+                                    "start_point": [
+                                        -38,
+                                        87
+                                    ],
+                                    "end_point": [
+                                        -57,
+                                        87
+                                    ],
+                                    "start_point_id": "dummy",
+                                    "end_point_id": "KG0B"
+                                },
+                                {
+                                    "type": "Line2D",
+                                    "id": "dummy",
+                                    "start_point": [
+                                        -57,
+                                        87
+                                    ],
+                                    "end_point": [
+                                        -57,
+                                        76
+                                    ],
+                                    "start_point_id": "dummy",
+                                    "end_point_id": "dummy"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "8afe8743-21bf-4625-bede-f111bf1134ea": {
+                    "loops": [
+                        {
+                            "loop_curves": [
+                                {
+                                    "type": "Line2D",
+                                    "id": "dummy",
+                                    "start_point": [
+                                        23,
+                                        76
+                                    ],
+                                    "end_point": [
+                                        57,
+                                        76
+                                    ],
+                                    "start_point_id": "dummy",
+                                    "end_point_id": "dummy"
+                                },
+                                {
+                                    "type": "Line2D",
+                                    "id": "dummy",
+                                    "start_point": [
+                                        57,
+                                        76
+                                    ],
+                                    "end_point": [
+                                        57,
+                                        90
+                                    ],
+                                    "start_point_id": "dummy",
+                                    "end_point_id": "KGsB"
+                                },
+                                {
+                                    "type": "Line2D",
+                                    "id": "dummy",
+                                    "start_point": [
+                                        57,
+                                        90
+                                    ],
+                                    "end_point": [
+                                        38,
+                                        90
+                                    ],
+                                    "start_point_id": "dummy",
+                                    "end_point_id": "dummy"
+                                },
+                                {
+                                    "type": "Line2D",
+                                    "id": "dummy",
+                                    "start_point": [
+                                        38,
+                                        90
+                                    ],
+                                    "end_point": [
+                                        38,
+                                        84
+                                    ],
+                                    "start_point_id": "dummy",
+                                    "end_point_id": "dummy"
+                                },
+                                {
+                                    "type": "Line2D",
+                                    "id": "dummy",
+                                    "start_point": [
+                                        38,
+                                        84
+                                    ],
+                                    "end_point": [
+                                        23,
+                                        84
+                                    ],
+                                    "start_point_id": "dummy",
+                                    "end_point_id": "dummy"
+                                },
+                                {
+                                    "type": "Line2D",
+                                    "id": "dummy",
+                                    "start_point": [
+                                        23,
+                                        84
+                                    ],
+                                    "end_point": [
+                                        23,
+                                        76
+                                    ],
+                                    "start_point_id": "dummy",
+                                    "end_point_id": "dummy"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            },
+            "plane": {
+                "normal": [
+                    0,
+                    0,
+                    128
+                ],
+                "origin": [
+                    0,
+                    0,
+                    0
+                ],
+                "x": [
+                    128,
+                    0,
+                    0
+                ]
+            }
+        },
+        "ee7c4691-138b-48f1-a863-d060f63fcbf8": {
+            "name": "ee7c4691-138b-48f1-a863-d060f63fcbf8",
+            "id": "ee7c4691-138b-48f1-a863-d060f63fcbf8",
+            "type": "revolve",
+            "sketch_id": "5e22f879-8f67-47ab-b84c-071cadcbc73a",
+            "parameters": {
+                "bodyType": "SOLID",
+                "operationType": "REMOVE",
+                "revolveType": "",
+                "axis": {
+                    "point": [
+                        -57,
+                        76,
+                        0
+                    ],
+                    "direction": [
+                        128,
+                        0,
+                        0
+                    ]
+                },
+                "angleOne": -360.0,
+                "angleTwo": 0.0
+            }
+        },
+        "ecd9e165-abc5-422a-b869-d6376d4b4ac1": {
+            "name": "ecd9e165-abc5-422a-b869-d6376d4b4ac1",
+            "id": "ecd9e165-abc5-422a-b869-d6376d4b4ac1",
+            "type": "chamfer",
+            "entities": [
+                {
+                    "referenceId": "KG0B",
+                    "capType": "SWEPT"
+                }
+            ],
+            "parameters": {
+                "width": 2.0
+            }
+        },
+        "7a3a7097-f46f-4d04-81c5-82538f525245": {
+            "name": "7a3a7097-f46f-4d04-81c5-82538f525245",
+            "id": "7a3a7097-f46f-4d04-81c5-82538f525245",
+            "type": "chamfer",
+            "entities": [
+                {
+                    "referenceId": "KGsB",
+                    "capType": "SWEPT"
+                }
+            ],
+            "parameters": {
+                "width": 4.0
+            }
+        }
+    },
+    "sequence": [
+        {
+            "index": null,
+            "type": "sketch",
+            "name": "0abfb08d-d5d3-46d5-b99c-8264df9cf461",
+            "feature_id": "0abfb08d-d5d3-46d5-b99c-8264df9cf461"
+        },
+        {
+            "index": null,
+            "type": "extrude",
+            "name": "3a613e04-11c8-4bfb-bc7b-f207af85131f",
+            "feature_id": "3a613e04-11c8-4bfb-bc7b-f207af85131f"
+        },
+        {
+            "index": null,
+            "type": "fillet",
+            "name": "8796a016-473d-4258-bd55-a63ac005ed7c",
+            "feature_id": "8796a016-473d-4258-bd55-a63ac005ed7c"
+        },
+        {
+            "index": null,
+            "type": "fillet",
+            "name": "4f397769-bf3b-42ac-a73e-9cc690714f67",
+            "feature_id": "4f397769-bf3b-42ac-a73e-9cc690714f67"
+        },
+        {
+            "index": null,
+            "type": "sketch",
+            "name": "0da234dd-ad51-4c91-bde3-cbdd3660ea3e",
+            "feature_id": "0da234dd-ad51-4c91-bde3-cbdd3660ea3e"
+        },
+        {
+            "index": null,
+            "type": "revolve",
+            "name": "caff46d9-eaa0-4b07-862a-80fd0b3c39dd",
+            "feature_id": "caff46d9-eaa0-4b07-862a-80fd0b3c39dd"
+        },
+        {
+            "index": null,
+            "type": "sketch",
+            "name": "5e22f879-8f67-47ab-b84c-071cadcbc73a",
+            "feature_id": "5e22f879-8f67-47ab-b84c-071cadcbc73a"
+        },
+        {
+            "index": null,
+            "type": "revolve",
+            "name": "ee7c4691-138b-48f1-a863-d060f63fcbf8",
+            "feature_id": "ee7c4691-138b-48f1-a863-d060f63fcbf8"
+        },
+        {
+            "index": null,
+            "type": "chamfer",
+            "name": "ecd9e165-abc5-422a-b869-d6376d4b4ac1",
+            "feature_id": "ecd9e165-abc5-422a-b869-d6376d4b4ac1"
+        },
+        {
+            "index": null,
+            "type": "chamfer",
+            "name": "7a3a7097-f46f-4d04-81c5-82538f525245",
+            "feature_id": "7a3a7097-f46f-4d04-81c5-82538f525245"
+        }
+    ]
+}

@@ -1,0 +1,846 @@
+{
+    "features": {
+        "sketch_of_Fi5w059KV4YmkPU_0_0": {
+            "name": "sketch_of_Fi5w059KV4YmkPU_0_0",
+            "id": "sketch_of_Fi5w059KV4YmkPU_0_0",
+            "type": "sketch",
+            "profiles": {
+                "JGK_JGS_JG6_JGe_JGi_JGm_JGW_JG+_JGG_JGC_KGCB_JGy_JGO_JGq_JGu": {
+                    "loops": [
+                        {
+                            "loop_curves": [
+                                {
+                                    "type": "Line2D",
+                                    "id": "JGd_JGZ",
+                                    "start_point": [
+                                        -0.006,
+                                        0.022075
+                                    ],
+                                    "end_point": [
+                                        -0.006,
+                                        0.01469747
+                                    ],
+                                    "start_point_id": "KG8B",
+                                    "end_point_id": "IG"
+                                },
+                                {
+                                    "center_point": [
+                                        0.0,
+                                        0.0
+                                    ],
+                                    "end_point": [
+                                        0.006,
+                                        0.01469747
+                                    ],
+                                    "start_angle": 0.0,
+                                    "id": "JGB_JGF_JGJ",
+                                    "end_angle": 5.50801724,
+                                    "radius": 0.015875,
+                                    "type": "Arc2D",
+                                    "start_point": [
+                                        -0.006,
+                                        0.01469747
+                                    ],
+                                    "midpoint": [
+                                        -0.0,
+                                        -0.01587498
+                                    ],
+                                    "start_point_id": "IG",
+                                    "end_point_id": "JGE"
+                                },
+                                {
+                                    "type": "Line2D",
+                                    "id": "JG9_KGBB_KGFB",
+                                    "start_point": [
+                                        0.006,
+                                        0.01469747
+                                    ],
+                                    "end_point": [
+                                        0.006,
+                                        0.027975
+                                    ],
+                                    "start_point_id": "JGE",
+                                    "end_point_id": "JGY"
+                                },
+                                {
+                                    "type": "Line2D",
+                                    "id": "KGJB_KGNB",
+                                    "start_point": [
+                                        0.006,
+                                        0.027975
+                                    ],
+                                    "end_point": [
+                                        0.015,
+                                        0.027975
+                                    ],
+                                    "start_point_id": "JGY",
+                                    "end_point_id": "JGc"
+                                },
+                                {
+                                    "type": "Line2D",
+                                    "id": "KGRB_KGVB_KGZB_KGdB",
+                                    "start_point": [
+                                        0.015,
+                                        0.027975
+                                    ],
+                                    "end_point": [
+                                        0.015,
+                                        0.013039
+                                    ],
+                                    "start_point_id": "JGc",
+                                    "end_point_id": "JGM"
+                                },
+                                {
+                                    "type": "Arc2D",
+                                    "id": "JGV",
+                                    "start_point": [
+                                        0.015,
+                                        0.013039
+                                    ],
+                                    "end_point": [
+                                        0.01704031,
+                                        -0.01022954
+                                    ],
+                                    "start_point_id": "JGM",
+                                    "end_point_id": "JG8",
+                                    "center_point": [
+                                        0.0,
+                                        0.0
+                                    ],
+                                    "radius": 0.019875,
+                                    "start_angle": 0.0,
+                                    "end_angle": 1.25622406,
+                                    "midpoint": [
+                                        0.01979903,
+                                        0.00173608
+                                    ]
+                                },
+                                {
+                                    "type": "Arc2D",
+                                    "id": "KGFC",
+                                    "start_point": [
+                                        0.01704031,
+                                        -0.01022954
+                                    ],
+                                    "end_point": [
+                                        0.0225,
+                                        -0.019875
+                                    ],
+                                    "start_point_id": "JG8",
+                                    "end_point_id": "JG4",
+                                    "center_point": [
+                                        0.0225,
+                                        -0.01350708
+                                    ],
+                                    "radius": 0.00636792,
+                                    "start_angle": 0.0,
+                                    "end_angle": 2.11144825,
+                                    "midpoint": [
+                                        0.01695827,
+                                        -0.0166439
+                                    ]
+                                },
+                                {
+                                    "type": "Line2D",
+                                    "id": "KGJC",
+                                    "start_point": [
+                                        0.0225,
+                                        -0.019875
+                                    ],
+                                    "end_point": [
+                                        0.0225,
+                                        -0.031875
+                                    ],
+                                    "start_point_id": "JG4",
+                                    "end_point_id": "KGAB"
+                                },
+                                {
+                                    "type": "Line2D",
+                                    "id": "KGNC_KGBC",
+                                    "start_point": [
+                                        0.0225,
+                                        -0.031875
+                                    ],
+                                    "end_point": [
+                                        -0.0225,
+                                        -0.031875
+                                    ],
+                                    "start_point_id": "KGAB",
+                                    "end_point_id": "JGw"
+                                },
+                                {
+                                    "type": "Line2D",
+                                    "id": "KG9B_KGND_KG5B",
+                                    "start_point": [
+                                        -0.0225,
+                                        -0.031875
+                                    ],
+                                    "end_point": [
+                                        -0.0225,
+                                        -0.019875
+                                    ],
+                                    "start_point_id": "JGw",
+                                    "end_point_id": "JGo"
+                                },
+                                {
+                                    "type": "Arc2D",
+                                    "id": "KG1B",
+                                    "start_point": [
+                                        -0.0225,
+                                        -0.019875
+                                    ],
+                                    "end_point": [
+                                        -0.01704031,
+                                        -0.01022954
+                                    ],
+                                    "start_point_id": "JGo",
+                                    "end_point_id": "JGs",
+                                    "center_point": [
+                                        -0.0225,
+                                        -0.01350708
+                                    ],
+                                    "radius": 0.00636792,
+                                    "start_angle": 0.0,
+                                    "end_angle": 2.11144825,
+                                    "midpoint": [
+                                        -0.01695827,
+                                        -0.0166439
+                                    ]
+                                },
+                                {
+                                    "type": "Arc2D",
+                                    "id": "JGN",
+                                    "start_point": [
+                                        -0.01704031,
+                                        -0.01022954
+                                    ],
+                                    "end_point": [
+                                        -0.015,
+                                        0.013039
+                                    ],
+                                    "start_point_id": "JGs",
+                                    "end_point_id": "JGI",
+                                    "center_point": [
+                                        0.0,
+                                        0.0
+                                    ],
+                                    "radius": 0.019875,
+                                    "start_angle": 0.0,
+                                    "end_angle": 1.25622406,
+                                    "midpoint": [
+                                        -0.01979903,
+                                        0.00173608
+                                    ]
+                                },
+                                {
+                                    "type": "Line2D",
+                                    "id": "JG5_JG1_JGx_JGt",
+                                    "start_point": [
+                                        -0.015,
+                                        0.013039
+                                    ],
+                                    "end_point": [
+                                        -0.015,
+                                        0.027975
+                                    ],
+                                    "start_point_id": "JGI",
+                                    "end_point_id": "JGU"
+                                },
+                                {
+                                    "type": "Line2D",
+                                    "id": "JGp_JGl",
+                                    "start_point": [
+                                        -0.015,
+                                        0.027975
+                                    ],
+                                    "end_point": [
+                                        -0.006,
+                                        0.027975
+                                    ],
+                                    "start_point_id": "JGU",
+                                    "end_point_id": "JGQ"
+                                },
+                                {
+                                    "type": "Line2D",
+                                    "id": "JGh",
+                                    "start_point": [
+                                        -0.006,
+                                        0.027975
+                                    ],
+                                    "end_point": [
+                                        -0.006,
+                                        0.022075
+                                    ],
+                                    "start_point_id": "JGQ",
+                                    "end_point_id": "KG8B"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            },
+            "plane": {
+                "normal": [
+                    0.0,
+                    0.0,
+                    1.0
+                ],
+                "origin": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "x": [
+                    1.0,
+                    0.0,
+                    0.0
+                ]
+            }
+        },
+        "Fi5w059KV4YmkPU_0_0": {
+            "name": "Extrude 1",
+            "id": "Fi5w059KV4YmkPU_0_0",
+            "type": "extrude",
+            "sketch_id": "sketch_of_Fi5w059KV4YmkPU_0_0",
+            "parameters": {
+                "bodyType": "SOLID",
+                "operationType": "NEW",
+                "endBound": "BLIND",
+                "depthOne": 0.006,
+                "depthTwo": 0.006
+            }
+        },
+        "fillet_0_of_Fi5w059KV4YmkPU_0_0": {
+            "name": "fillet_0_of_Fi5w059KV4YmkPU_0_0",
+            "id": "fillet_0_of_Fi5w059KV4YmkPU_0_0",
+            "type": "fillet",
+            "entities": [
+                {
+                    "entityType": "EDGE",
+                    "capType": "SWEPT",
+                    "referenceId": "JGE",
+                    "referenceType": "VERTEX"
+                },
+                {
+                    "entityType": "EDGE",
+                    "capType": "SWEPT",
+                    "referenceId": "IG",
+                    "referenceType": "VERTEX"
+                }
+            ],
+            "parameters": {
+                "radius": 0.005
+            }
+        },
+        "fillet_1_of_Fi5w059KV4YmkPU_0_0": {
+            "name": "fillet_1_of_Fi5w059KV4YmkPU_0_0",
+            "id": "fillet_1_of_Fi5w059KV4YmkPU_0_0",
+            "type": "fillet",
+            "entities": [
+                {
+                    "entityType": "EDGE",
+                    "capType": "SWEPT",
+                    "referenceId": "JGQ",
+                    "referenceType": "VERTEX"
+                },
+                {
+                    "entityType": "EDGE",
+                    "capType": "SWEPT",
+                    "referenceId": "JGY",
+                    "referenceType": "VERTEX"
+                },
+                {
+                    "entityType": "EDGE",
+                    "capType": "SWEPT",
+                    "referenceId": "JGc",
+                    "referenceType": "VERTEX"
+                },
+                {
+                    "entityType": "EDGE",
+                    "capType": "SWEPT",
+                    "referenceId": "JGU",
+                    "referenceType": "VERTEX"
+                },
+                {
+                    "entityType": "EDGE",
+                    "capType": "SWEPT",
+                    "referenceId": "JGM",
+                    "referenceType": "VERTEX"
+                },
+                {
+                    "entityType": "EDGE",
+                    "capType": "SWEPT",
+                    "referenceId": "JGI",
+                    "referenceType": "VERTEX"
+                },
+                {
+                    "entityType": "EDGE",
+                    "capType": "SWEPT",
+                    "referenceId": "JGo",
+                    "referenceType": "VERTEX"
+                },
+                {
+                    "entityType": "EDGE",
+                    "capType": "SWEPT",
+                    "referenceId": "JGw",
+                    "referenceType": "VERTEX"
+                },
+                {
+                    "entityType": "EDGE",
+                    "capType": "SWEPT",
+                    "referenceId": "KGAB",
+                    "referenceType": "VERTEX"
+                },
+                {
+                    "entityType": "EDGE",
+                    "capType": "SWEPT",
+                    "referenceId": "JG4",
+                    "referenceType": "VERTEX"
+                }
+            ],
+            "parameters": {
+                "radius": 0.001
+            }
+        },
+        "sketch_of_FP9iSjmFMO7FPoS_1_0": {
+            "name": "sketch_of_FP9iSjmFMO7FPoS_1_0",
+            "id": "sketch_of_FP9iSjmFMO7FPoS_1_0",
+            "type": "sketch",
+            "profiles": {
+                "JGC": {
+                    "loops": [
+                        {
+                            "loop_curves": [
+                                {
+                                    "type": "Line2D",
+                                    "id": "KGFD",
+                                    "start_point": [
+                                        -0.0225,
+                                        -0.025875
+                                    ],
+                                    "end_point": [
+                                        -0.0075,
+                                        -0.025875
+                                    ],
+                                    "start_point_id": "KGcB",
+                                    "end_point_id": "KGgB"
+                                },
+                                {
+                                    "type": "Line2D",
+                                    "id": "KGRD",
+                                    "start_point": [
+                                        -0.0075,
+                                        -0.025875
+                                    ],
+                                    "end_point": [
+                                        -0.0075,
+                                        -0.023375
+                                    ],
+                                    "start_point_id": "KGgB",
+                                    "end_point_id": "KGoB"
+                                },
+                                {
+                                    "type": "Line2D",
+                                    "id": "KGJD",
+                                    "start_point": [
+                                        -0.0075,
+                                        -0.023375
+                                    ],
+                                    "end_point": [
+                                        -0.0225,
+                                        -0.023375
+                                    ],
+                                    "start_point_id": "KGoB",
+                                    "end_point_id": "KGkB"
+                                },
+                                {
+                                    "type": "Line2D",
+                                    "id": "KGND",
+                                    "start_point": [
+                                        -0.0225,
+                                        -0.023375
+                                    ],
+                                    "end_point": [
+                                        -0.0225,
+                                        -0.025875
+                                    ],
+                                    "start_point_id": "KGkB",
+                                    "end_point_id": "KGcB"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            },
+            "plane": {
+                "normal": [
+                    0.0,
+                    0.0,
+                    1.0
+                ],
+                "origin": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "x": [
+                    1.0,
+                    0.0,
+                    0.0
+                ]
+            }
+        },
+        "FP9iSjmFMO7FPoS_1_0": {
+            "name": "Revolve 1",
+            "id": "FP9iSjmFMO7FPoS_1_0",
+            "type": "revolve",
+            "sketch_id": "sketch_of_FP9iSjmFMO7FPoS_1_0",
+            "parameters": {
+                "bodyType": "SOLID",
+                "operationType": "REMOVE",
+                "revolveType": "FULL",
+                "axis": {
+                    "point": [
+                        -0.0225,
+                        -0.025875,
+                        0.0
+                    ],
+                    "direction": [
+                        1.0,
+                        0.0,
+                        0.0
+                    ]
+                },
+                "angleOne": 0.0,
+                "angleTwo": 360.0
+            }
+        },
+        "sketch_of_FD0mXu6o34fsoqu_1_0": {
+            "name": "sketch_of_FD0mXu6o34fsoqu_1_0",
+            "id": "sketch_of_FD0mXu6o34fsoqu_1_0",
+            "type": "sketch",
+            "profiles": {
+                "JGi_JGm_JG6": {
+                    "loops": [
+                        {
+                            "loop_curves": [
+                                {
+                                    "type": "Line2D",
+                                    "id": "KGhB_KGlB",
+                                    "start_point": [
+                                        -0.015,
+                                        0.019975
+                                    ],
+                                    "end_point": [
+                                        -0.006,
+                                        0.019975
+                                    ],
+                                    "start_point_id": "JGg",
+                                    "end_point_id": "KGEC"
+                                },
+                                {
+                                    "type": "Line2D",
+                                    "id": "JGd",
+                                    "start_point": [
+                                        -0.006,
+                                        0.019975
+                                    ],
+                                    "end_point": [
+                                        -0.006,
+                                        0.022075
+                                    ],
+                                    "start_point_id": "KGEC",
+                                    "end_point_id": "KG8B"
+                                },
+                                {
+                                    "type": "Line2D",
+                                    "id": "KGVC",
+                                    "start_point": [
+                                        -0.006,
+                                        0.022075
+                                    ],
+                                    "end_point": [
+                                        -0.01,
+                                        0.022075
+                                    ],
+                                    "start_point_id": "KG8B",
+                                    "end_point_id": "KGUC"
+                                },
+                                {
+                                    "type": "Line2D",
+                                    "id": "KGpC",
+                                    "start_point": [
+                                        -0.01,
+                                        0.022075
+                                    ],
+                                    "end_point": [
+                                        -0.01,
+                                        0.0227817
+                                    ],
+                                    "start_point_id": "KGUC",
+                                    "end_point_id": "KG4B"
+                                },
+                                {
+                                    "type": "Line2D",
+                                    "id": "KGZD",
+                                    "start_point": [
+                                        -0.01,
+                                        0.0227817
+                                    ],
+                                    "end_point": [
+                                        -0.015,
+                                        0.0227817
+                                    ],
+                                    "start_point_id": "KG4B",
+                                    "end_point_id": "KG0B"
+                                },
+                                {
+                                    "type": "Line2D",
+                                    "id": "JGx_JG1",
+                                    "start_point": [
+                                        -0.015,
+                                        0.0227817
+                                    ],
+                                    "end_point": [
+                                        -0.015,
+                                        0.019975
+                                    ],
+                                    "start_point_id": "KG0B",
+                                    "end_point_id": "JGg"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "JG+_JGy_JGu": {
+                    "loops": [
+                        {
+                            "loop_curves": [
+                                {
+                                    "type": "Line2D",
+                                    "id": "KGVD",
+                                    "start_point": [
+                                        0.015,
+                                        0.023475
+                                    ],
+                                    "end_point": [
+                                        0.01,
+                                        0.023475
+                                    ],
+                                    "start_point_id": "KGsB",
+                                    "end_point_id": "KGwB"
+                                },
+                                {
+                                    "type": "Line2D",
+                                    "id": "KG5C",
+                                    "start_point": [
+                                        0.01,
+                                        0.023475
+                                    ],
+                                    "end_point": [
+                                        0.01,
+                                        0.022075
+                                    ],
+                                    "start_point_id": "KGwB",
+                                    "end_point_id": "KGYC"
+                                },
+                                {
+                                    "type": "Line2D",
+                                    "id": "KGdC",
+                                    "start_point": [
+                                        0.01,
+                                        0.022075
+                                    ],
+                                    "end_point": [
+                                        0.006,
+                                        0.022075
+                                    ],
+                                    "start_point_id": "KGYC",
+                                    "end_point_id": "KGAC"
+                                },
+                                {
+                                    "type": "Line2D",
+                                    "id": "KGBB",
+                                    "start_point": [
+                                        0.006,
+                                        0.022075
+                                    ],
+                                    "end_point": [
+                                        0.006,
+                                        0.019975
+                                    ],
+                                    "start_point_id": "KGAC",
+                                    "end_point_id": "KGIC"
+                                },
+                                {
+                                    "type": "Line2D",
+                                    "id": "KGtB_KGxB",
+                                    "start_point": [
+                                        0.006,
+                                        0.019975
+                                    ],
+                                    "end_point": [
+                                        0.015,
+                                        0.019975
+                                    ],
+                                    "start_point_id": "KGIC",
+                                    "end_point_id": "JGk"
+                                },
+                                {
+                                    "type": "Line2D",
+                                    "id": "KGZB_KGVB",
+                                    "start_point": [
+                                        0.015,
+                                        0.019975
+                                    ],
+                                    "end_point": [
+                                        0.015,
+                                        0.023475
+                                    ],
+                                    "start_point_id": "JGk",
+                                    "end_point_id": "KGsB"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            },
+            "plane": {
+                "normal": [
+                    0.0,
+                    0.0,
+                    1.0
+                ],
+                "origin": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "x": [
+                    1.0,
+                    0.0,
+                    0.0
+                ]
+            }
+        },
+        "FD0mXu6o34fsoqu_1_0": {
+            "name": "Revolve 2",
+            "id": "FD0mXu6o34fsoqu_1_0",
+            "type": "revolve",
+            "sketch_id": "sketch_of_FD0mXu6o34fsoqu_1_0",
+            "parameters": {
+                "bodyType": "SOLID",
+                "operationType": "REMOVE",
+                "revolveType": "FULL",
+                "axis": {
+                    "point": [
+                        -0.015,
+                        0.019975,
+                        0.0
+                    ],
+                    "direction": [
+                        1.0,
+                        0.0,
+                        0.0
+                    ]
+                },
+                "angleOne": 0.0,
+                "angleTwo": 360.0
+            }
+        },
+        "chamfer_0_of_FD0mXu6o34fsoqu_1_0": {
+            "name": "chamfer_0_of_FD0mXu6o34fsoqu_1_0",
+            "id": "chamfer_0_of_FD0mXu6o34fsoqu_1_0",
+            "type": "chamfer",
+            "entities": [
+                {
+                    "entityType": "EDGE",
+                    "capType": "SWEPT",
+                    "referenceId": "KG0B",
+                    "referenceType": "VERTEX"
+                }
+            ],
+            "parameters": {
+                "width": 0.0005
+            }
+        },
+        "chamfer_1_of_FD0mXu6o34fsoqu_1_0": {
+            "name": "chamfer_1_of_FD0mXu6o34fsoqu_1_0",
+            "id": "chamfer_1_of_FD0mXu6o34fsoqu_1_0",
+            "type": "chamfer",
+            "entities": [
+                {
+                    "entityType": "EDGE",
+                    "capType": "SWEPT",
+                    "referenceId": "KGsB",
+                    "referenceType": "VERTEX"
+                }
+            ],
+            "parameters": {
+                "width": 0.001
+            }
+        }
+    },
+    "sequence": [
+        {
+            "index": 0,
+            "type": "sketch",
+            "name": "sketch_of_Fi5w059KV4YmkPU_0_0",
+            "feature_id": "sketch_of_Fi5w059KV4YmkPU_0_0"
+        },
+        {
+            "index": 1,
+            "type": "extrude",
+            "name": "Extrude 1",
+            "feature_id": "Fi5w059KV4YmkPU_0_0"
+        },
+        {
+            "index": 2,
+            "type": "fillet",
+            "name": "fillet_0_of_Fi5w059KV4YmkPU_0_0",
+            "feature_id": "fillet_0_of_Fi5w059KV4YmkPU_0_0"
+        },
+        {
+            "index": 3,
+            "type": "fillet",
+            "name": "fillet_1_of_Fi5w059KV4YmkPU_0_0",
+            "feature_id": "fillet_1_of_Fi5w059KV4YmkPU_0_0"
+        },
+        {
+            "index": 4,
+            "type": "sketch",
+            "name": "sketch_of_FP9iSjmFMO7FPoS_1_0",
+            "feature_id": "sketch_of_FP9iSjmFMO7FPoS_1_0"
+        },
+        {
+            "index": 5,
+            "type": "revolve",
+            "name": "Revolve 1",
+            "feature_id": "FP9iSjmFMO7FPoS_1_0"
+        },
+        {
+            "index": 6,
+            "type": "sketch",
+            "name": "sketch_of_FD0mXu6o34fsoqu_1_0",
+            "feature_id": "sketch_of_FD0mXu6o34fsoqu_1_0"
+        },
+        {
+            "index": 7,
+            "type": "revolve",
+            "name": "Revolve 2",
+            "feature_id": "FD0mXu6o34fsoqu_1_0"
+        },
+        {
+            "index": 8,
+            "type": "chamfer",
+            "name": "chamfer_0_of_FD0mXu6o34fsoqu_1_0",
+            "feature_id": "chamfer_0_of_FD0mXu6o34fsoqu_1_0"
+        },
+        {
+            "index": 9,
+            "type": "chamfer",
+            "name": "chamfer_1_of_FD0mXu6o34fsoqu_1_0",
+            "feature_id": "chamfer_1_of_FD0mXu6o34fsoqu_1_0"
+        }
+    ]
+}
