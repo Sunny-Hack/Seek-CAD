@@ -50,8 +50,7 @@ This script demonstrates:
 - How to construct 3D CAD models from JSON files using APIs from OpenCascade (e.g., exporting models as STEP files)
 - How to convert JSON files into a code-based representation
 - How to regenerate a unified JSON format from code
-- How to convert our data format into the JSON format used by **DeepCAD**
-  (https://github.com/rundiwu/DeepCAD), enabling convenient downstream processing
+- How to convert our data format into the JSON format required by [**DeepCAD**](https://github.com/rundiwu/DeepCAD), making data exchange convenient for users who rely on DeepCAD scripts.
 
 These examples are intended to facilitate data visualization, format conversion, and integration with existing CAD learning pipelines.
 
