@@ -9,8 +9,15 @@
 ## Dataset 
 
 <p align="center">
+  <img src="assets/dataset_compare" width="100%" alt="Seek-CAD Dataset">
+</p>
+<p align="center">
   <img src="assets/SSR_Design_Paradigm.png" width="100%" alt="Seek-CAD Framework">
 </p>
+<p align="center">
+  <img src="assets/dataset_stat_compare" width="100%" alt="Seek-CAD Dataset">
+</p>
+
 
 ### Seek-CAD Dataset
 
@@ -18,6 +25,9 @@
 
 We provide the **Seek-CAD dataset**, which contains approximately **40,000 CAD models**.  
 Each CAD model is primarily stored in **JSON format**.
+
+The dataset supports a wide range of CAD operation types, including **sketch**, **extrude**, **revolve**, **fillet**, **chamfer**, and **shell**.  
+Approximately **70%** of the CAD models contain **advanced operations**, such as **fillet**, **chamfer**, and **shell**, making the dataset suitable for studying complex and realistic CAD modeling scenarios.
 
 #### Download Instructions
 
