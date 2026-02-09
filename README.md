@@ -60,9 +60,9 @@ This script demonstrates:
 
 These examples are intended to facilitate data visualization, format conversion, and integration with existing CAD learning pipelines.
 
-### Pre-processed Text-SSR Pairs (RAG Corpus)
+### Pre-processed Text-SSR Pairs
 
-We provide 4 pre-processed `.txt` files containing over **23K** Text2SSR (Sketch, Sketchbased feature, and Refinements) pairs. You can access these files by unzipping the archive located at `Dataset/preprocessed_txt2ssr`.
+We also provide 4 pre-processed `.txt` files containing over **23K** Text2SSR (Sketch, Sketchbased feature, and Refinements) pairs in the same format as the RAG Corpus (10,000 samples) used in our experiments. You can access these files by unzipping the archive located at `Dataset/preprocessed_txt2ssr`.
 
 - **Total Samples**: 23,313 pairs.
 - **File Format**: `.txt` (Text-SSR pairs).
