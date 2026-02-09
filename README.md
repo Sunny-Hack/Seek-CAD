@@ -12,11 +12,8 @@
 <p align="center">
   <img src="assets/SSR_Design_Paradigm.png" width="100%" alt="Seek-CAD Framework">
 </p>
-<div style="display: flex; justify-content: space-between;">
-  <img src="assets/dataset_stat_compare.jpg" width="48%">
-  <img src="assets/dataset_compare.jpg" width="48%">
-</div>
-
+<p align="center"> <img src="assets/dataset_stat_compare.jpg" width="100%" alt="Seek-CAD Dataset"> </p> 
+<p align="center"> <img src="assets/dataset_compare.jpg" width="60%" alt="Seek-CAD Dataset"> </p>
 ### Seek-CAD Dataset
 
 #### Dataset Overview
